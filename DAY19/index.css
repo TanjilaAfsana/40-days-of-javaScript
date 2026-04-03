@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(178, 199, 218);
+}
+
+.show{
+    display: block;
+}
+
+.hide{
+    display: none;
+}
